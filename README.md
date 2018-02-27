@@ -1,1 +1,1 @@
-sinit
+ssinit
